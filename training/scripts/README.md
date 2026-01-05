@@ -1,0 +1,1 @@
+You might need to modify the data/model path in the `.sh` scripts to launch the training procedure.
