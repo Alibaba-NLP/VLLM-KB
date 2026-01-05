@@ -180,6 +180,5 @@ training_data/
 *.tar.gz
 *storage/
 ckpt/
-eval_data*
 inspection_temp*
 tmp/
