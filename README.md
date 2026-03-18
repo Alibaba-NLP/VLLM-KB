@@ -12,9 +12,8 @@ pip install -r requirements.txt
 We recommand using `cuda=12.1` to prevent potential issues of version conflicts, and our experiments are conducted on `NVIDIA A100-SXM4-80GB`.
 
 ## Download 
-[Training data]() to training/training_data
 
-[Evaluation data]() to evaluation/eval_data
+[Evaluation data](https://huggingface.co/datasets/chord/VL-KnowledgeBoundary-Data) to evaluation/eval_data
 
 
 ## To train the Knowledge Boundary Model
